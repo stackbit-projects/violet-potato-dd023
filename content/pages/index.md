@@ -7,6 +7,7 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
+    title: Creamos una comunidad juntos?
   - section_id: about
     type: section_content
     title: About
