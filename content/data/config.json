@@ -6,7 +6,7 @@
     "header": {
         "title": "Ulises GC",
         "tagline": "Community Manager / Diseñador Gráfico",
-        "profile_img": "images/avatar.png",
+        "profile_img": "/images/ulises_profile.svg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
