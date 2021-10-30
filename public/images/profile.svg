@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="112.953mm" height="112.959mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11537 11537"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id1)}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="1" y="1" width="11536" height="11536"/>
+   </clipPath>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="5090.26" y1="1585.29" x2="5090.3" y2="11535.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00CCFF"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:aqua"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#61FFA0"/>
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="1" y="1" width="11536" height="11536" xlink:href="profile_Images\profile_ImgID1.png"/>
+  </g>
+  <path class="fil0" d="M5768 0c3185,0 5768,2582 5768,5768 0,3185 -2583,5768 -5768,5768 -3186,0 -5768,-2583 -5768,-5768 0,-3186 2582,-5768 5768,-5768zm0 213c3068,0 5555,2487 5555,5555 0,3068 -2487,5555 -5555,5555 -3068,0 -5555,-2487 -5555,-5555 0,-3068 2487,-5555 5555,-5555z"/>
+ </g>
+</svg>
