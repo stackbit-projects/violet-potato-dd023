@@ -8,6 +8,13 @@ sections:
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     title: ¿Creamos una comunidad juntos?
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
   - section_id: about
     type: section_content
     title: About
