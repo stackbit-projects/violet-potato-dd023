@@ -23,11 +23,13 @@ sections:
   - section_id: about
     type: section_content
     title: Conóceme.
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Recientemente decidí dar un giro a mi vida y hacerle caso a mi curiosidad,
+      para ello salí de mi zona de confort y aventurarme al mundo de la
+      creatividad y la construcción de comunidades digitales. Cada uno de mis
+      trabajos están realizados con mucha dedicación y cariño. No debe de faltar
+      mucho para que se pueda calcular el valor de las ideas y se pueda dar a la
+      creatividad el valor que se merece. 
     actions:
       - label: Contacto
         url: /contact
