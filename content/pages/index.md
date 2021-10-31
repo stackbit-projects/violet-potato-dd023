@@ -31,7 +31,7 @@ sections:
       mucho para que se pueda calcular el valor de las ideas y se pueda dar a la
       creatividad el valor que se merece. 
     actions:
-      - label: CONÓCEME MAS
+      - label: CONÓCEME
         url: /about/
         style: button
   - section_id: recent-posts
