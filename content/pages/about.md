@@ -31,12 +31,20 @@ seo:
 layout: page
 subtitle: This is a short page about me and my work.
 ---
+Mi curiosidad siempre me lleva fuera de la zona de confort, estoy en constante
+búsqueda de retos y aprendizaje. Tengo un extraño gusto por las marcas que influyen
+en la vida de sus consumidores, por eso decidí aprender Marketing Digital, principalmente en
+Redes Sociales.
+Muy pocas marcas han alcanzado un engagement con sus seguidores, considero que
+necesitamos marcas que otorguen a su vida un valor añadido, convirtiendo a los compradores
+en fans y hacerlos participes de una interesante historia.
+Llegue a concluir que las marcas actuales tienen que ser reinventadas para las redes sociales,
+con la responsabilidad y compromiso de construir una comunidad alrededor del valor que ofrece
+la marca.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
