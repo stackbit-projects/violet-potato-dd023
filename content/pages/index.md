@@ -22,7 +22,7 @@ sections:
         no_follow: false
   - section_id: about
     type: section_content
-    title: Conóceme.
+    title: 'Sobre mi. '
     content: >
       Recientemente decidí dar un giro a mi vida y hacerle caso a mi curiosidad,
       para ello salí de mi zona de confort y aventurarme al mundo de la
