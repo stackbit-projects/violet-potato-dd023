@@ -29,7 +29,7 @@ sections:
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
     actions:
-      - label: Contact Me
+      - label: Contacto
         url: /contact
         style: button
   - section_id: recent-posts
