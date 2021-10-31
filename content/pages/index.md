@@ -14,7 +14,7 @@ sections:
       Redes Sociales.
     title: 'Hola, soy Ulises Guadarrama Chávez'
     actions:
-      - label: 'Trabaja para aprender, jámas para ser e'
+      - label: 'Trabaja para aprender, jámas para ser esclavo.'
         url: '#'
         style: link
         icon_class: dev
