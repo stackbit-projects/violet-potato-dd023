@@ -22,7 +22,7 @@ sections:
         no_follow: false
   - section_id: about
     type: section_content
-    title: Conoceme.
+    title: Conóceme.
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
