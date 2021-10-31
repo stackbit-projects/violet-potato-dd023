@@ -4,15 +4,14 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >+
-      Soy de la CDMX, pero actualmente vivo en Guadalajara Jalisco. Tengo un
-      extraño gusto por las marcas, sobre todo por aquellas que influyen
+    content: >
+      Soy de la CDMX, pero actualmente vivo en Guadalajara Jal. Tengo un extraño
+      gusto por las marcas, sobre todo por aquellas que influyen
 
       en la vida de sus consumidores, por eso decidí aprender de Marketing
       Digital, principalmente enfocarme en
 
       Redes Sociales.
-
     title: 'Hola, soy Ulises Guadarrama Chávez'
     actions:
       - label: lorem-ipsum
