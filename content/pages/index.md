@@ -4,9 +4,15 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Soy de la CDMX, pero actualmente vivo en Guadalajara Jalisco. Tengo un
+      extraño gusto por las marcas, sobre todo por aquellas que influyen
+
+      en la vida de sus consumidores, por eso decidí aprender de Marketing
+      Digital, principalmente enfocarme en
+
+      Redes Sociales.
+
     title: 'Hola, soy Ulises Guadarrama Chávez'
     actions:
       - label: lorem-ipsum
