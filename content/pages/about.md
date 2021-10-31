@@ -1,6 +1,6 @@
 ---
 title: CONÓCEME
-subtitle: This is a short page about me and my work.
+subtitle: eSTE ES UN PE
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
