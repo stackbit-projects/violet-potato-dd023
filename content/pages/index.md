@@ -32,7 +32,7 @@ sections:
       creatividad el valor que se merece. 
     actions:
       - label: Contacto
-        url: /contact
+        url: /about/
         style: button
   - section_id: recent-posts
     type: section_posts
