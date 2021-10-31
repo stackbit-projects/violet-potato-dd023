@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      Nací de la CDMX, pero actualmente vivo en Guadalajara Jal. Tengo un
+      Nací en la CDMX, pero actualmente vivo en Guadalajara Jal. Tengo un
       extraño gusto por las marcas, sobre todo por aquellas que influyen
 
       en la vida de sus consumidores, por eso decidí aprender de Marketing
