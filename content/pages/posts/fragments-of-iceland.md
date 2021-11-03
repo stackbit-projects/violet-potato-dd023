@@ -44,12 +44,35 @@ excerpt: >-
   (SÍNDROME DEL IMPOSTOR)
 ---
 
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
+## ¿Qué es una marca personal?&#xA;
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
+Una **marca personal es** la manera en como quieres tú cómo profesional, que te vean las personas o empresas con las que te gustaría interactuar. Internamente será una forma de almacenar tus mejores trabajos para exponerlos como obras de arte, gracias a esto tendrás la oportunidad de medir tu crecimiento.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
+> "
+>
+> **El título universitario fue al siglo XX lo que la marca personal será al siglo XXI"  **
+>
+> \- 
+>
+> **Borja Vilaseca**
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+## ¿Qué aprendí?
+
+Comenzaré por contarte el final de lo que aprendí. Quizá suene interesante, extraño, intimidante o tonto, porque no esperaba haber descubierto algo que estaba buscando por mucho tiempo. Para mí es importe porque resolvió muchas dudas, y me libero de muchos diálogos negativos que me invadían todos los días (SÍNDROME DEL IMPOSTOR), muchas quejas mentales se desvanecieron. Lo más importante fue que **me encontré a mí mismo**. Me di cuenta de las cosas que estaba haciendo bien y cuáles mal.
+
+El saber que quieres hacer para capitalizar tu talento no te garantiza la felicidad, pero es parte fundamental de las **áreas de nuestra vida**, las cuales son 12, pero solo hablaré de una en especial: la profesional.
+
+El tener un mapa de lo que quieres hacer como profesional te ayuda a identificar las áreas en las que quieres trabajar, te permite **decir NO** a trabajos o proyectos en los cuales no se alinean con tu camino. No solamente se trata de hacer dinero, sino también de trabajar en cosas que valgan la pena y ayuden a otras personas, brindándoles herramientas que ayuden a construir un camino mejor. Sin dejar a un lado el ser consiente de reducir esa carga emocional que implica tener **un trabajo que no te guste** y a un futuro no muy largo afecten a tu salud y bienestar mental.
+
+## ¿A dónde voy?
+
+Estoy en la etapa en la que quiero formar parte de equipos de trabajo que trasciendan y que tengan una filosofía igual a la mía. Porque quiero trabajar de ahora en adelante en cosas que valgan la pena, en cosas que me hagan sentir que la creatividad es un recurso fundamental para ayudar a cambiar vidas.
+
+> **“Trabaja para aprender, jamás para ser esclavo” - Ulises GC**
+
+## Conclusión
+
+Reinicie mi camino laboral. De ser líder de dos equipos en un corporativo gigantesco a empezar un nuevo camino en marketing digital, actualmente soy community manager interesado en branding y programación. Estaré esforzándome día a día en aprender nuevas habilidades para dar un pívot hacia Growth Marketing.
+
+Ahora que sabes **por qué comencé a hacer mi marca personal**, **¿te gustaría lanzar tú marca personal?** Escríbeme en mis redes sociales y con gusto te ayudo en este difícil pero no imposible camino de autoconocimiento y superación profesional.
