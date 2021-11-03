@@ -44,7 +44,7 @@ excerpt: >-
 
 Una **marca personal es** la manera en como quieres tú cómo profesional, que te vean las personas o empresas con las que te gustaría interactuar. Internamente será una forma de almacenar tus mejores trabajos para exponerlos como obras de arte, gracias a esto tendrás la oportunidad de medir tu crecimiento.
 
-> *El título universitario fue al siglo XX lo que la marca personal será al siglo XXI*
+> *El título universitario fue al siglo XX lo que la marca personal será al siglo XXI.*
 >
 > *-Borja Vilaseca*
 
@@ -60,9 +60,9 @@ El tener un mapa de lo que quieres hacer como profesional te ayuda a identificar
 
 Estoy en la etapa en la que quiero formar parte de equipos de trabajo que trasciendan y que tengan una filosofía igual a la mía. Porque quiero trabajar de ahora en adelante en cosas que valgan la pena, en cosas que me hagan sentir que la creatividad es un recurso fundamental para ayudar a cambiar vidas.
 
-> *Trabaja para aprender, jamás para ser esclavo*
+> *Trabaja para aprender, jamás para ser esclavo.*
 >
-> *- Ulises GC*
+> *-Ulises GC*
 
 ## Conclusión
 
