@@ -1,7 +1,7 @@
 ---
 title: MARCA PERSONAL. ¿UN CAMINO A LA INTROSPECCIÓN?
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
+thumb_img_path: /images/imagen pagina web.svg
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
