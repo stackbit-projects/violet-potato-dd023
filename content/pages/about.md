@@ -35,7 +35,7 @@ Mi curiosidad siempre me lleva fuera de la zona de confort, estoy en constante
 búsqueda de retos y aprendizaje. Tengo un extraño gusto por las marcas que influyen
 en la vida de sus consumidores, por eso decidí aprender Marketing Digital, principalmente en
 Redes Sociales.
-Muy pocas marcas han alcanzado un engagement con sus seguidores, considero que
+<PMuy pocas marcas han alcanzado un engagement con sus seguidores, considero que
 necesitamos marcas que otorguen a su vida un valor añadido, convirtiendo a los compradores
 en fans y hacerlos participes de una interesante historia.
 Llegue a concluir que las marcas actuales tienen que ser reinventadas para las redes sociales,
