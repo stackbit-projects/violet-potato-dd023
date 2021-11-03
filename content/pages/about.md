@@ -1,6 +1,6 @@
 ---
 title: CONÓCEME
-img_path: /images/Yomerengues.jpg
+img_path: /images/viajeulises.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
