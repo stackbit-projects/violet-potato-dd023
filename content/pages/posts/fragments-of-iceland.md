@@ -36,12 +36,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-excerpt: >-
-  Comenzaré por contarte el final de lo que aprendí. Quizá suene interesante,
-  extraño, intimidante o tonto, porque no esperaba haber descubierto algo que
-  estaba buscando por mucho tiempo. Para mí es importe porque resolvió muchas
-  dudas, y me libero de muchos diálogos negativos que me invadían todos los días
-  (SÍNDROME DEL IMPOSTOR)
+excerpt: 'Comenzare por '
 ---
 
 
