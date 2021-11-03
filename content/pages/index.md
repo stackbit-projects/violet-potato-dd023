@@ -39,7 +39,7 @@ sections:
     title: Recent Posts
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Ver Blog
         url: blog/index.html
         style: button
 seo:
