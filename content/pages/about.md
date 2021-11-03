@@ -29,7 +29,6 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
-subtitle: This is a short page about me and my work.
 ---
 Mi curiosidad siempre me lleva fuera de la zona de confort, estoy en constante
 búsqueda de retos y aprendizaje. Tengo un extraño gusto por las marcas que influyen
