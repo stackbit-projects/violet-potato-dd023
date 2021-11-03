@@ -37,7 +37,7 @@ en la vida de sus consumidores, por eso decidí aprender Marketing Digital, prin
 Redes Sociales.
 <P>Muy pocas marcas han alcanzado un engagement con sus seguidores, considero que
 necesitamos marcas que otorguen a su vida un valor añadido, convirtiendo a los compradores
-en fans y hacerlos participes de una interesante historia.
+en fans y hacerlos participes de una interesante historia.</P>
 Llegue a concluir que las marcas actuales tienen que ser reinventadas para las redes sociales,
 con la responsabilidad y compromiso de construir una comunidad alrededor del valor que ofrece
 la marca.
