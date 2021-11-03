@@ -36,6 +36,9 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  Reinicie mi camino laboral. De ser líder de dos equipos en un corporativo
+  gigantesco a empezar un nuevo camino en marketing digital,
 ---
 
 
