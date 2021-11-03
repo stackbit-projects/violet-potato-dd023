@@ -36,7 +36,6 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-excerpt: 'Comenzare por '
 ---
 
 
