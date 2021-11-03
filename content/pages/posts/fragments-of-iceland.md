@@ -44,9 +44,9 @@ excerpt: >-
 
 Una **marca personal es** la manera en como quieres tú cómo profesional, que te vean las personas o empresas con las que te gustaría interactuar. Internamente será una forma de almacenar tus mejores trabajos para exponerlos como obras de arte, gracias a esto tendrás la oportunidad de medir tu crecimiento.
 
-> El título universitario fue al siglo XX lo que la marca personal será al siglo XXI 
+> *El título universitario fue al siglo XX lo que la marca personal será al siglo XXI*
 >
-> \-Borja Vilaseca
+> *-Borja Vilaseca*
 
 ## ¿Qué aprendí?
 
