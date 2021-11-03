@@ -40,19 +40,11 @@ excerpt: >-
   Reinicie mi camino laboral. De ser líder de dos equipos en un corporativo
   gigantesco a empezar un nuevo camino en marketing digital.
 ---
-
-
 ## ¿Qué es una marca personal?&#xA;
 
 Una **marca personal es** la manera en como quieres tú cómo profesional, que te vean las personas o empresas con las que te gustaría interactuar. Internamente será una forma de almacenar tus mejores trabajos para exponerlos como obras de arte, gracias a esto tendrás la oportunidad de medir tu crecimiento.
 
-> "
->
-> **El título universitario fue al siglo XX lo que la marca personal será al siglo XXI"  **
->
-> \- 
->
-> **Borja Vilaseca**
+> El título universitario fue al siglo XX lo que la marca personal será al siglo XXI -**Borja Vilaseca**
 
 ## ¿Qué aprendí?
 
