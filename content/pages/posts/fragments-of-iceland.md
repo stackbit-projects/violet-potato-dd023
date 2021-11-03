@@ -38,7 +38,7 @@ seo:
 layout: post
 excerpt: >-
   Reinicie mi camino laboral. De ser líder de dos equipos en un corporativo
-  gigantesco a empezar un nuevo camino en marketing digital
+  gigantesco a empezar un nuevo camino en marketing digital.
 ---
 
 
