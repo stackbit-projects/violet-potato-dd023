@@ -1,6 +1,6 @@
 ---
 title: MARCA PERSONAL. ¿UN CAMINO A LA INTROSPECCIÓN?
-date: '2019-11-27'
+date: '2019-11-03'
 thumb_img_path: /images/imagenweb.jpg
 thumb_img_alt: Elegir la puerta correcta.
 content_img_path: /images/imagenweb.jpg
