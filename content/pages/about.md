@@ -32,7 +32,7 @@ layout: page
 ---
 Soy soñador y creativo. Me gusta tener espacio para pensar, aprender y relajarme. Trabajo en ser extrovertido para conocer a gente interesante como tu. Me gusta la simpleza y los pequeños detalles. Adoro las plantas, los animales, los espacios en blanco y el silencio en la naturaleza.
 
-> Trabaja para aprender, jamás para ser esclavo.
+> *Trabaja para aprender, jamás para ser esclavo.*
 
 Esta frase ayudó a simplificar mi camino laboral, me recuerda a donde voy, cuáles son las cosas que me importan, incluso me ayuda a identificar donde va el punto final.
 
