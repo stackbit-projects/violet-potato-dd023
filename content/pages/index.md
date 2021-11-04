@@ -12,7 +12,8 @@ sections:
 
       Reinicie mi camino laboral, pase de ser líder de dos equipos en un
       corporativo gigantesco a empezar un nuevo camino en marketing digital,
-      actualmente soy Community Manager interesado en branding y programación. 
+      actualmente soy **Community Manager** interesado en branding y
+      programación.
 
 
       Estaré esforzándome día a día en aprender nuevas habilidades para dar un
