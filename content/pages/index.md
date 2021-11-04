@@ -6,8 +6,7 @@ sections:
     type: section_hero
     content: >
       Seguí un camino laboral preestablecido como muchos lo hacemos, pero escapé
-      a tiempo para diseñar un camino diferente. Un camino el cual estoy
-      construyendo con mis pasiones.
+      a tiempo para diseñar un camino diferente.
 
 
       Reinicie mi camino laboral, pase de ser líder de dos equipos en un
