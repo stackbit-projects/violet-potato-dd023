@@ -22,9 +22,8 @@ sections:
   - section_id: about
     type: section_content
     title: 'Sobre mi. '
-    content: >
-      No debe de faltar mucho para que se pueda calcular el valor de las ideas y
-      se pueda dar a la creatividad el valor que se merece.
+    content: |
+      Nací en la Ciudad de México, actualmente vivo en Guadalajara Jal. 
     actions:
       - label: CONÓCEME
         url: /about/
