@@ -23,12 +23,8 @@ sections:
     type: section_content
     title: 'Sobre mi. '
     content: >
-      Recientemente decidí dar un giro a mi vida y hacerle caso a mi curiosidad,
-      para ello salí de mi zona de confort y aventurarme al mundo de la
-      creatividad y la construcción de comunidades digitales. Cada uno de mis
-      trabajos están realizados con mucha dedicación y cariño. No debe de faltar
-      mucho para que se pueda calcular el valor de las ideas y se pueda dar a la
-      creatividad el valor que se merece. 
+      No debe de faltar mucho para que se pueda calcular el valor de las ideas y
+      se pueda dar a la creatividad el valor que se merece.
     actions:
       - label: CONÓCEME
         url: /about/
