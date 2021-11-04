@@ -15,8 +15,8 @@ sections:
       programación.
 
 
-      Estaré esforzándome día a día en aprender nuevas habilidades para dar un
-      pívot hacia Growth Marketing.
+      Estaré esforzándome día a día en aprender nuevas habilidades para ser
+      mejor que hoy.
     title: 'Hola, soy Ulises Guadarrama Chávez'
     actions: []
   - section_id: about
