@@ -22,8 +22,11 @@ sections:
   - section_id: about
     type: section_content
     title: 'Sobre mi. '
-    content: |
-      Nací en la Ciudad de México, actualmente vivo en Guadalajara Jal. 
+    content: >+
+      Nací en la Ciudad de México, actualmente vivo en Guadalajara Jal.  He sido
+      la obeja negra de la familia por creer que la creatividad es un recurso
+      fundamental para ayudar a cambiar vidas.
+
     actions:
       - label: CONÓCEME
         url: /about/
