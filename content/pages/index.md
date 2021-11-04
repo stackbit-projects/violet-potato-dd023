@@ -5,13 +5,25 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      Nací en la CDMX, pero actualmente vivo en Guadalajara Jal. Tengo un
-      extraño gusto por las marcas, sobre todo por aquellas que influyen
+      Seguí un camino laboral preestablecido como muchos lo hacemos, pero escapé
+      a tiempo
 
-      en la vida de sus consumidores, por eso decidí aprender de Marketing
-      Digital, principalmente enfocarme en
+      para diseñar un camino diferente. Un camino el cual estoy construyendo con
+      mis
 
-      Redes Sociales.
+      pasiones.
+
+
+      Reinicie mi camino
+
+      laboral, pase de ser líder de dos equipos en un corporativo gigantesco a
+
+      empezar un nuevo camino en marketing digital, actualmente soy Community
+      Manager
+
+      interesado en branding y programación. Estaré esforzándome día a día en
+
+      aprender nuevas habilidades para dar un pívot hacia Growth Marketing.
     title: 'Hola, soy Ulises Guadarrama Chávez'
     actions:
       - label: 'Trabaja para aprender, jamás para ser esclavo.'
