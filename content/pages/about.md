@@ -30,21 +30,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Soy soñador y creativo. Me gusta tener espacio para pensar, aprender y relajarme. Trabajo en ser extrovertido para conocer a gente interesante como tu. Me gusta la simpleza y los pequeños detalles. Adoro las plantas, los animales, los espacios en blanco y el silencio en la naturaleza.
+
 Mi curiosidad siempre me lleva fuera de la zona de confort, estoy en constante
 búsqueda de retos y aprendizaje. Tengo un extraño gusto por las marcas que influyen
 en la vida de sus consumidores, por eso decidí aprender Marketing Digital, principalmente en
 Redes Sociales.
+
 <P>Muy pocas marcas han alcanzado un engagement con sus seguidores, considero que
 necesitamos marcas que otorguen a su vida un valor añadido, convirtiendo a los compradores
 en fans y hacerlos participes de una interesante historia.</P>
 Llegue a concluir que las marcas actuales tienen que ser reinventadas para las redes sociales,
 con la responsabilidad y compromiso de construir una comunidad alrededor del valor que ofrece
 la marca.
-
-
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
