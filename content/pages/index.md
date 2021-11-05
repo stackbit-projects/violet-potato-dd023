@@ -49,7 +49,7 @@ seo:
       value: Ulises GC
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: 'Community Manager / Diseñador Gráfico. '
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
