@@ -40,7 +40,7 @@ export default class MyDocument extends Document {
 
                         gtag('config', 'G-WLCGE78DDX');
 
-                    </script>
+                </script>
                     <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src="/js/plugins.js" />
