@@ -60,7 +60,7 @@ seo:
     - name: 'twitter:title'
       value: Ulises GC
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: 'Community Manager / Diseñador Gráfico. '
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
