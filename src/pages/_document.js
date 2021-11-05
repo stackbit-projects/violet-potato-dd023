@@ -39,6 +39,7 @@ export default class MyDocument extends Document {
                         gtag('js', new Date());
 
                         gtag('config', 'G-WLCGE78DDX');
+                        
                     </script>
                     <body {...this.helmetBodyAttrComponents}>
                     <Main />
