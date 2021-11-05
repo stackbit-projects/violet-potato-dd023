@@ -40,7 +40,7 @@ sections:
         style: button
 seo:
   title: Ulises GC
-  description: 'Mi página web. '
+  description: Community Manager / Diseñador Gráfico
   extra:
     - name: 'og:type'
       value: website
