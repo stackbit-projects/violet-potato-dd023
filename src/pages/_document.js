@@ -38,7 +38,7 @@ export default class MyDocument extends Document {
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
 
-  gtag('config', 'G-WLCGE78DDX');
+                        gtag('config', 'G-WLCGE78DDX');
 </script>
                     <body {...this.helmetBodyAttrComponents}>
                     <Main />
