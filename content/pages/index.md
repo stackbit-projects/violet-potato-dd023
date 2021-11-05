@@ -62,7 +62,7 @@ seo:
     - name: 'twitter:description'
       value: 'Community Manager / Diseñador Gráfico. '
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/web-bafea22d.png
       relativeUrl: true
 layout: advanced
 ---
