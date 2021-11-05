@@ -52,7 +52,7 @@ seo:
       value: 'Community Manager / Diseñador Gráfico. '
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/web.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
