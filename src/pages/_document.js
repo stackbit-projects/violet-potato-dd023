@@ -33,7 +33,7 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
                 <body {...this.helmetBodyAttrComponents}>
-                     <Main />
+                    <Main />
                     <script src="/js/plugins.js" />
                     <NextScript />
                 </body>
