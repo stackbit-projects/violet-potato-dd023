@@ -33,13 +33,13 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WLCGE78DDX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
 
-  gtag('config', 'G-WLCGE78DDX');
-</script>
+                gtag('config', 'G-WLCGE78DDX');
+                </script>
 
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
