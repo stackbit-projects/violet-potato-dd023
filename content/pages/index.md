@@ -40,7 +40,7 @@ sections:
         style: button
 seo:
   title: Ulises GC
-  description: The preview of the Fresh theme
+  description: 'Mi página web. '
   extra:
     - name: 'og:type'
       value: website
