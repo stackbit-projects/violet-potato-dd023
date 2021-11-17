@@ -5,18 +5,19 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      Seguí un camino laboral preestablecido como muchos lo hacemos, pero escapé
-      a tiempo para diseñar un camino diferente.
+      Mi gusto por el diseño gráfico, la comunicación y las ventas comenzaron a
+      sembrar ideas en mí a tal grado que decidí reinventarme nuevamente.
 
 
       Reinicie mi camino laboral, pase de ser líder de dos equipos en un
       corporativo gigantesco a empezar un nuevo camino en marketing digital,
-      actualmente soy **Community Manager** interesado en branding y
-      programación.
+      actualmente soy **Community Manager** interesado en branding, diseño
+      gráfico y programación.
 
 
-      Estaré esforzándome día a día en aprender nuevas habilidades para ser
-      mejor que hoy.
+      Estoy entusiasmado en poder colaborar con grandes proyectos para crear
+      marcas que impacten positivamente en la vida de sus usuarios o
+      consumidores. 
     title: 'Hola, soy Ulises Guadarrama Chávez'
     actions: []
   - section_id: about
