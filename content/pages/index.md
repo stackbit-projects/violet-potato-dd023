@@ -6,7 +6,7 @@ sections:
     type: section_hero
     content: >
       Mi gusto por el diseño gráfico, la comunicación y las ventas comenzaron a
-      sembrar ideas en mí, a tal grado que decidí reinventarme nuevamente.
+      sembrar ideas en mí, a tal grado que decidí reinventarme.
 
 
       Reinicie mi camino laboral, pase de ser líder de dos equipos en un
