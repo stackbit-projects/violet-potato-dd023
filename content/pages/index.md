@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      Mi gusto por el diseño gráfico, la comunicación y las ventas comenzaron a
-      sembrar ideas en mí, a tal grado que decidí reinventarme.
+      Estoy construyendo un camino nuevo, me gustan los retos y el sabor del
+      café por las mañanas. Quiero  inspirar y motivar a las nuevas generaciones
+      a nunca parar de aprender. 
 
 
       Reinicie mi camino laboral, pase de ser líder de dos equipos en un
