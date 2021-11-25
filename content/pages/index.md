@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      Estoy construyendo un camino nuevo, me gustan los retos y el sabor del
+      Estoy construyendo un nuevo camino, me gustan los retos y el sabor del
       café por las mañanas. Quiero  inspirar y motivar a las nuevas generaciones
-      a nunca parar de aprender. 
+      a nunca parar de aprender.
 
 
       Reinicie mi camino laboral, pase de ser líder de dos equipos en un
